@@ -44,7 +44,7 @@ Current compatibility
 | Name                       | Status       | Notes                                                                                                                           |
 |----------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
 | CPU                        | 🟢           | Patched with CPUFriend                                                                                                          |
-| Graphic Card / Display     | 🟢           |                                                                                                                                 |
+| Graphic Card / Display     | 🟢           | Sometimes will give blank screen after boot, hard restart will solve that                                                                                                                                |
 | Audio                      | 🟢           |                                                                                                                                 |
 | Storage                    | 🔴           | Since there is so much problem opencore + PM981 drive,  i end up to change the drive to SSD Adata XPG SX8200 PRO 256GB M.2 NVMe |
 | Sleep                      | 🟡           | No USB power, sometimes sleep broke sound input                                                                                 |
