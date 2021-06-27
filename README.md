@@ -92,6 +92,7 @@ Tasks (NEED HELP!)
 - Change VoodooPS2 to VoodooRMI (Hopefully fix unnatural touchpad issue)
 - SIM Card reader
 - Sleep sometimes broke sound input
+- Upgrade to latest opencore
 
 
 ----
