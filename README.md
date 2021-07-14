@@ -1,4 +1,4 @@
-![open core version](https://badgen.net/badge/opencore/0.6.6/green "Open core version")
+![open core version](https://badgen.net/badge/opencore/0.7.1/green "Open core version")
 
 # LENOVO YOGA X390 CORE I7 - 16GB OPENCORE EFI
 
