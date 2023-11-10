@@ -1,5 +1,9 @@
 ![open core version](https://badgen.net/badge/opencore/0.7.1/green "Open core version")
 
+# NOTE
+
+Unfortunately I don't have this device anymore, looking for anyone that can maintain it, PR are welcome!
+
 # LENOVO YOGA X390 CORE I7 - 16GB OPENCORE EFI
 
 ⚠️WARNING⚠️
